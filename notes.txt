@@ -1,0 +1,6 @@
+The script records time whenever the computer starts up and shutsdown
+
+
+
+
+
